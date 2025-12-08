@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <div align="center">
   <h2>Hi, I'm Shivam, passionate about carving a career path in Data Analytics and Engineering! 💻</h2>
   <p>As a recent graduate from University of Massachussetts having completed my Master's in Data Analytics, I'm on a mission to harness the power of data to drive innovation and transformative solutions. From predictive modeling to data visualizations, I thrive on turning insights into actionable strategies that make a difference.</p>
