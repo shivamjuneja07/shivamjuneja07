@@ -1,7 +1,12 @@
+<div style="position: absolute;">
+  <!-- Banner Image as Background -->
+  <img src="" style="width:100%;">
+  </div>
+
 <div align="center">
 <h2>Hi, I'm Shivam 👋 — passionate about experimenting, breaking things, fixing them, and shipping!</h2>
 <p>
-  I like turning messy data into things people actually use — dashboards, pipelines, and AI-powered tools. I completed my <b>Master’s in Data Analytics at the University of Massachusetts</b>, where I built a strong foundation in analytics and modeling.
+  I like turning messy data into things people actually use — dashboards, pipelines, and AI-powered tools. I completed my <b>Master’s in Business Analytics at the University of Massachusetts</b>, where I built a strong foundation in analytics and modeling.
 </p>
 <p>
   This GitHub is where I experiment, break things, fix them, and ship.
