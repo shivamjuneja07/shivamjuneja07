@@ -1,6 +1,6 @@
 <div style="position: absolute;">
   <!-- Banner Image as Background -->
-  <img src="" style="width:100%;">
+  <img src="https://github.com/shivamjuneja07/shivamjuneja07/blob/main/Shivam%20Juneja_Banner.png" style="width:100%;">
   </div>
 
 <div align="center">
