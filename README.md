@@ -14,6 +14,18 @@
 </div>
 
 <div align="center">
+<p><strong>Connect with me:</strong></p>
+<p>
+    <a href="https://www.linkedin.com/in/shivam-juneja/">
+      <img src="https://github.com/shivamjuneja07/shivamjuneja07/blob/main/LinkedIn.png" alt="LinkedIn Icon" style="width: 40px; margin-right: 10px;">
+    </a>
+    <a href="mailto:shivamjuneja0799@gmail.com">
+      <img src="https://github.com/shivamjuneja07/shivamjuneja07/blob/main/Gmail.jpeg" alt="Email Icon" style="width: 55px; margin-right: 10px; margin-left: 20px;">
+    </a>
+  </p>
+</div>
+
+<div align="center">
   <h2>Tools and Technologies 🛠️</h2>
   
 ![Static Badge](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=Python&logoColor=%233776AB)
