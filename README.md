@@ -1,6 +1,11 @@
 <div align="center">
-  <h2>Hi, I'm Shivam, passionate about carving a career path in Data Analytics and Engineering! 💻</h2>
-  <p>As a recent graduate from University of Massachussetts having completed my Master's in Data Analytics, I'm on a mission to harness the power of data to drive innovation and transformative solutions. From predictive modeling to data visualizations, I thrive on turning insights into actionable strategies that make a difference.</p>
+<h2>Hi, I'm Shivam 👋 — passionate about experimenting, breaking things, fixing them, and shipping!</h2>
+<p>
+  I like turning messy data into things people actually use — dashboards, pipelines, and AI-powered tools. I completed my <b>Master’s in Data Analytics at the University of Massachusetts</b>, where I built a strong foundation in analytics and modeling.
+</p>
+<p>
+  This GitHub is where I experiment, break things, fix them, and ship.
+</p>
 </div>
 
 <div align="center">
