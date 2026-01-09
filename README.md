@@ -64,6 +64,23 @@
 ![Static Badge](https://img.shields.io/badge/ms%20sharepoint-white?style=for-the-badge&logo=microsoftsharepoint&logoColor=%230078D4)
 ![Static Badge](https://img.shields.io/badge/ms%20powerpoint-white?style=for-the-badge&logo=microsoftpowerpoint&logoColor=%23B7472A)
 ![Static Badge](https://img.shields.io/badge/ms%20word-white?style=for-the-badge&logo=microsoftword&logoColor=%232B579A)
+![Static Badge](https://img.shields.io/badge/Hive-white?style=for-the-badge&logo=apachehive)
 
 </div>
 
+<!-- ==================== GitHub Stats Section ==================== -->
+
+<div align="center">
+
+  <!-- Section Title -->
+  <h2>📊 GitHub Stats & Activity</h2>
+
+  <!-- GitHub Streak Stats -->
+  <h3>🔥 Contribution Streak</h3>
+  <img src="https://streak-stats.demolab.com/?user=shivamjuneja07&theme=default" alt="GitHub Streak" />
+
+  <!-- GitHub Activity Graph -->
+  <h3>📈 Activity Graph</h3>
+  <img src="https://activity-graph.herokuapp.com/graph?username=shivamjuneja07&theme=github" alt="GitHub Activity Graph" />
+
+</div>
