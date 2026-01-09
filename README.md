@@ -72,15 +72,18 @@
 
 <div align="center">
 
-  <!-- Section Title -->
   <h2>📊 GitHub Stats & Activity</h2>
 
-  <!-- GitHub Streak Stats -->
-  <h3>🔥 Contribution Streak</h3>
-  <img src="https://streak-stats.demolab.com/?user=shivamjuneja07&theme=default" alt="GitHub Streak" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=shivamjuneja07&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
 
-  <!-- GitHub Activity Graph -->
-  <h3>📈 Activity Graph</h3>
-  <img src="https://activity-graph.herokuapp.com/graph?username=shivamjuneja07&theme=github" alt="GitHub Activity Graph" />
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamjuneja07&layout=compact&theme=default" alt="Top Languages" />
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamjuneja07&theme=github" alt="GitHub Activity Graph" />
+
+  <!-- Optional: GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=shivamjuneja07&theme=flat" alt="Trophies" />
 
 </div>
