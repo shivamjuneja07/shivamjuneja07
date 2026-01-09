@@ -1,0 +1,31 @@
+name: Update GitHub Streak SVG
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-streak:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Ensure assets folder exists
+        run: |
+          mkdir -p assets
+          ls -la assets
+
+      - name: Download streak SVG
+        run: |
+          echo "Downloading streak SVG..."
+          curl -f -o assets/streak.svg "https://streak-stats.demolab.com/?user=shivamjuneja07&theme=default"
+          ls -la assets
+
+      - name: Commit updated SVG
+        run: |
+          git config --local user.name "github-actions"
+          git config --local user.email "github-actions@github.com"
+          git add assets/streak.svg
+          git commit -m "Update streak SVG [skip ci]" || echo "No changes to commit"
+          git push
