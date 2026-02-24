@@ -67,18 +67,3 @@
 ![Static Badge](https://img.shields.io/badge/Hive-white?style=for-the-badge&logo=apachehive)
 
 </div>
-
-<!-- ==================== GitHub Stats Section ==================== -->
-<div align="center">
-
-  <h2>📊 GitHub Stats & Activity</h2>
-
-  <!-- Auto-updating streak -->
-  <h3>🔥 Contribution Streak</h3>
-  <img src="./assets/streak.svg" alt="GitHub Streak" width="400"/>
-
-  <!-- Activity Graph -->
-  <h3>📈 Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamjuneja07&theme=github" alt="GitHub Activity Graph" />
-
-</div>
